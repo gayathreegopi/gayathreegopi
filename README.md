@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning advanced time series modeling and sentiment analysis techniques.
 - 💞️ I’m looking to collaborate on projects involving predictive modeling, finance, or data-driven business solutions.
 - 📫 How to reach me: Connect with me on [LinkedIn](https://linkedin.com/in/gayathreegopi).
-- 😄 Pronouns: she/hers
 - ⚡ Fun fact: I have a background in computational biology, and I also love exploring the intersection of data science and healthcare!
 
 <!---
