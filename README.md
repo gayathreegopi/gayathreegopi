@@ -5,6 +5,8 @@
 - 📫 How to reach me: Connect with me on [LinkedIn](https://linkedin.com/in/gayathreegopi).
 - ⚡ Fun fact: I have a background in computational biology, and I also love exploring the intersection of data science and healthcare!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayathreegopi&layout=compact)](https://github.com/gayathreegopi/github-readme-stats)
+
 <!---
 gayathreegopi/gayathreegopi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
