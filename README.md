@@ -1,9 +1,21 @@
-- 👋 Hi, I’m Gayathree, an MS Business Analytics student and aspiring data scientist based in Austin, TX!
-- 👀 I’m interested in data science, financial analytics, and leveraging data to drive strategic insights.
-- 🌱 I’m currently learning advanced time series modeling and sentiment analysis techniques.
-- 💞️ I’m looking to collaborate on projects involving predictive modeling, finance, or data-driven business solutions.
-- 📫 How to reach me: Connect with me on [LinkedIn](https://linkedin.com/in/gayathreegopi).
-- ⚡ Fun fact: I have a background in computational biology, and I also love exploring the intersection of data science and healthcare!
+# 👋 Hi, I’m Gayathree Gopi
+
+🎓 I’m a business analytics professional and MSBA candidate at UT Austin, with a background in computational biology and growing experience in real estate analytics, investor modeling, and strategic problem solving.
+
+💼 I use Python, SQL, Tableau, and Excel to turn complex data into insight — whether that's building market prioritization tools, developing investor dashboards, or forecasting with sentiment signals.
+
+🔍 I’m especially interested in:
+- Real estate & financial analytics  
+- Forecasting & investment strategy  
+- Geospatial modeling & site selection  
+- Data-informed decision making in consulting contexts
+
+📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/gayathreegopi)  
+🌐 Check out my [portfolio website](https://gayathreegopi.github.io)
+
+⚡ Fun fact: I also run an art brand called *Chitralekha Creations*, where I blend storytelling and visual design with Indian spiritual art.
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayathreegopi&layout=compact)](https://github.com/gayathreegopi/github-readme-stats)
 
